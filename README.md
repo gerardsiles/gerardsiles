@@ -5,3 +5,4 @@
 - 📫 How to reach me: gerardsiles@gmail.com
 
 - Currently building projects to create a portfolio
+-💻 Familiar with: HTML, CSS JavaScript, C, Python and Flask.
