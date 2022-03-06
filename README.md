@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerardsiles
-- 👀 I’m interested in becoming a full-stack developer
-- 🌱 I’m currently learning Java, Databases and OOP
+- 👀 I’m in the path of becoming a full-stack developer
+- 🌱 I’m currently learning Java, MVC, MERN stack
 - 💞️ I’m looking to work as a developer
 - 📫 How to reach me: gerardsiles@gmail.com
 
