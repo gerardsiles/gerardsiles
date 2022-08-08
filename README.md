@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gerardsiles
-- 👀 I’m in the path of becoming a full-stack developer
-- 🌱 I’m currently learning Java and MERN stack
-- 💞️ I’m looking to work as a developer
+- 👋 Hi, I’m @gerardsiles, a chef for the past 10 years, and becoming a developer for the past 2 years.
+- 👀 I’m in the path of becoming a full-stack developer, studying my las semester in UOC university
+- 🌱 I’m currently focused on the MERN stack
+- 💞️ I’m looking to work as a developer as my new career
 - 📫 How to reach me: gerardsiles@gmail.com
 
-- Currently studying in UOC Full stack web development
--💻 Familiar with: HTML, CSS JavaScript, C, Python and Flask.
+
+-💻 Technologies: HTML, CSS, JavaScript, C, GraphQL, React, Java, Python and Flask.
+- Databases: MongoDB, MySQL.
